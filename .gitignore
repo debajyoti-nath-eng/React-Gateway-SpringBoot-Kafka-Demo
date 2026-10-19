@@ -1,0 +1,5 @@
+# Copyright (c) 2026 React-Gateway-SpringBoot-Kafka-Demo contributors.
+**/target/
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
