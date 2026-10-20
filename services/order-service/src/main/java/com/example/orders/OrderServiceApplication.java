@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2026 React-Gateway-SpringBoot-Kafka-Demo contributors.
- * Licensed under the GNU General Public License v3.0; see LICENSE.
+ * All rights reserved; see LICENSE.
  */
 package com.example.orders;
 

@@ -1,4 +1,4 @@
-<!-- Copyright (c) 2026 React-Gateway-SpringBoot-Kafka-Demo contributors. -->
+<!-- Copyright (c) 2026 debajyoti-nath-eng. -->
 # React + API Gateway + Spring Boot + REST + Kafka
 
 A small end-to-end order demo showing a React dashboard calling a Spring Cloud API Gateway, which routes REST requests to a Spring Boot order service. The service publishes `orders.created` messages to Kafka; a separate notification service consumes them.
@@ -84,4 +84,10 @@ npm install
 npm run build
 ```
 
-Java services use JavaDocs on their public application, API, and event types and members. Source files include a copyright notice and refer to the repository's GPL-3.0 license.
+## Ownership and license
+
+Copyright (c) 2026 debajyoti-nath-eng. All rights reserved. This repository is available for viewing and cloning only. No license or other permission is granted to use, reproduce, modify, distribute, sublicense, or create derivative works from the repository, except as permitted by applicable law or the GitHub Terms of Service. See [LICENSE](LICENSE).
+
+For permission requests, contact the repository owner through [GitHub](https://github.com/debajyoti-nath-eng). Cloning does not grant permission to use or modify the code. Contributions require the owner's prior approval.
+
+Java services use JavaDocs on their public application, API, and event types and members. Source files refer to the repository's LICENSE.
