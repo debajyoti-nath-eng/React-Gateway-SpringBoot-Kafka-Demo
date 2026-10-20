@@ -84,10 +84,10 @@ npm install
 npm run build
 ```
 
-## Ownership and license
+## License
 
-Copyright (c) 2026 debajyoti-nath-eng. All rights reserved. This repository is available for viewing and cloning only. No license or other permission is granted to use, reproduce, modify, distribute, sublicense, or create derivative works from the repository, except as permitted by applicable law or the GitHub Terms of Service. See [LICENSE](LICENSE).
-
-For permission requests, contact the repository owner through [GitHub](https://github.com/debajyoti-nath-eng). Cloning does not grant permission to use or modify the code. Contributions require the owner's prior approval.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for
+the full license text. Third-party libraries and tools are subject to their
+respective licenses.
 
 Java services use JavaDocs on their public application, API, and event types and members. Source files refer to the repository's LICENSE.
